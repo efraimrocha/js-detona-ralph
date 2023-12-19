@@ -23,9 +23,9 @@ Game Over: Adicionada a função de encerramento do jogo após 60 segundos, most
 Efeitos Sonoros: Foram incluídos efeitos sonoros na tela de "Game Over" para uma experiência mais imersiva.
 
 ## Tecnologias Utilizadas
-*HTML5
-*CSS3
-*JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
 ## Créditos
 Este projeto foi desenvolvido como parte do Bootcamp Potencia Tech iFood, promovido pela Digital Innovation One. Agradeçemos à DIO por fornecer uma excelente oportunidade de aprendizado.
