@@ -14,8 +14,10 @@ Abra o arquivo index.html com umservidor local, como liveserver no VS Code.
 Inicie o jogo clicando nos inimigos que aparecem nos quadrados.
 
 Você tem 60 segundos para fazer a maior quantidade de pontos possível.
+![Alt text](./src/images/playing.png)
 
 Ao final do tempo, a tela de "Game Over" será exibida, acompanhada de efeitos sonoros.
+![Alt text](./src/images/game-over.png) 
 
 ## Recursos Adicionados
 Game Over: Adicionada a função de encerramento do jogo após 60 segundos, mostrando a pontuação final do jogador.
@@ -37,5 +39,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 Divirta-se jogando Detona Ralph! 🚀
 
 
-![Alt text](./src/images/playing.png)
-![Alt text](./src/images/game-over.png) 
