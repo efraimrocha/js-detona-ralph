@@ -9,7 +9,7 @@ Clone este repositório para a sua máquina local:
 git clone https://github.com/seu-usuario/detona-ralph-game.git
 ~~~
 
-Abra o arquivo index.html em seu navegador web.
+Abra o arquivo index.html com umservidor local, como liveserver no VS Code.
 
 Inicie o jogo clicando nos inimigos que aparecem nos quadrados.
 
