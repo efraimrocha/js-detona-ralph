@@ -10,7 +10,8 @@ git clone https://github.com/seu-usuario/detona-ralph-game.git
 ~~~
 
 2. Abra o arquivo index.html com umservidor local, como liveserver no VS Code.
-3 .Inicie o jogo clicando nos inimigos que aparecem nos quadrados.
+   
+3. Inicie o jogo clicando nos inimigos que aparecem nos quadrados.
 
 Você tem 60 segundos para fazer a maior quantidade de pontos possível.
 
