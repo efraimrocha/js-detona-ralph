@@ -5,9 +5,7 @@ Este repositório contém o projeto prático desenvolvido durante o Bootcamp Pot
 ## Como Jogar
 Clone este repositório para a sua máquina local:
 
-ˋˋˋ
-git clone https://github.com/seu-usuario/detona-ralph-game.git
- ˋˋˋ
+ˋˋˋgit clone https://github.com/seu-usuario/detona-ralph-game.gitˋˋˋ
 
 
 Abra o arquivo index.html em seu navegador web.
