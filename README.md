@@ -1,4 +1,4 @@
-#Detona Ralph Game
+# Detona Ralph Game
 
 Este repositório contém o projeto prático desenvolvido durante o Bootcamp Potencia Tech iFood, oferecido pela Digital Innovation One (DIO). O projeto consiste em um jogo simples chamado "Detona Ralph", onde o jogador tem que acertar cliques em inimigos que aparecem aleatoriamente em nove quadrados durante um período de 60 segundos. Além disso, foi adicionada a função de "Game Over" e a inclusão de efeitos sonoros na tela de fim de jogo.
 
