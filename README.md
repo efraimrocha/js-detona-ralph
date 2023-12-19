@@ -5,9 +5,11 @@ Este repositório contém o projeto prático desenvolvido durante o Bootcamp Pot
 ## Como Jogar
 Clone este repositório para a sua máquina local:
 
-bash
-Copy code:
+ˋˋˋ
 git clone https://github.com/seu-usuario/detona-ralph-game.git
+ ˋˋˋ
+
+
 Abra o arquivo index.html em seu navegador web.
 
 Inicie o jogo clicando nos inimigos que aparecem nos quadrados.
@@ -21,18 +23,17 @@ Game Over: Adicionada a função de encerramento do jogo após 60 segundos, most
 
 Efeitos Sonoros: Foram incluídos efeitos sonoros na tela de "Game Over" para uma experiência mais imersiva.
 
-##Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
-Créditos
+## Tecnologias Utilizadas
+*HTML5
+*CSS3
+*JavaScript
+
+## Créditos
 Este projeto foi desenvolvido como parte do Bootcamp Potencia Tech iFood, promovido pela Digital Innovation One. Agradeçemos à DIO por fornecer uma excelente oportunidade de aprendizado.
 
-Contribuições
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções de bugs ou novos recursos.
 
-Licença
-Este projeto é licenciado sob a MIT License.
 
 Divirta-se jogando Detona Ralph! 🚀
 
