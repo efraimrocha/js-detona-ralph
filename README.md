@@ -40,4 +40,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 Divirta-se jogando Detona Ralph! 🚀
 
+Click aqui para jogar
+https://efraimrocha.github.io/js-detona-ralph/
+
 
